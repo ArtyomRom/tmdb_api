@@ -17,5 +17,3 @@ if __name__ == '__main__':
     result = search_for_film(keyword, films_data)
     for film in sorted(result):
         print(film)
-        
-        
